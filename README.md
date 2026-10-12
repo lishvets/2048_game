@@ -10,7 +10,7 @@ A fully functional, interactive implementation of the classic 2048 puzzle game b
 - Vanilla JavaScript (ES6+ Classes, OOP architecture)
 - Git & GitHub Pages
 
-##Features & Game Mechanics
+## Features & Game Mechanics
 **4x4 Game Grid:** Classic board structure supporting standard grid movements.
 
 **Keyboard Controls:** Use arrow keys (ArrowUp, ArrowDown, ArrowLeft, ArrowRight) to slide and merge tiles across the board.
