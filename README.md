@@ -2,7 +2,7 @@
 
 A fully functional, interactive implementation of the classic 2048 puzzle game built with vanilla JavaScript (ES6+ classes), HTML5, and CSS/SCSS. Slide tiles, merge numbers, keep track of your score, and try to reach the 2048 tile!
 
-[Visit the Website](https://<your_account>.github.io/2048_game/)
+[Visit the Website](https://lishvets.github.io/2048_game/)
 
 ## Technologies Used
 - HTML5
@@ -11,7 +11,6 @@ A fully functional, interactive implementation of the classic 2048 puzzle game b
 - Git & GitHub Pages
 
 ##Features & Game Mechanics
-
 **4x4 Game Grid:** Classic board structure supporting standard grid movements.
 
 **Keyboard Controls:** Use arrow keys (ArrowUp, ArrowDown, ArrowLeft, ArrowRight) to slide and merge tiles across the board.
